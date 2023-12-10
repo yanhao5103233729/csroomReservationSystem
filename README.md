@@ -1,5 +1,5 @@
 # csroom Reservation System
-object-oriented programming, DUT Advanced Programming Language (C++)
+object-oriented programming, DUT CS Course Advanced Programming Language (C++)
 
 ## Project Overview
 The Computer Room Reservation System is an object-oriented application designed to manage and streamline the process of reserving computer rooms in educational institutions. It caters to three different user roles: Students, Teachers, and Administrators, each with distinct functionalities.
