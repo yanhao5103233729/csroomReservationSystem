@@ -20,7 +20,7 @@ The Computer Room Reservation System is an object-oriented application designed 
 ## Installation
 
 ### Prerequisites
-- [Python 3.x](https://www.python.org/downloads/)[Microsoft Visual Studio 2010]
+- [Microsoft Visual Studio 2010]([https://www.python.org/downloads/](https://visualstudio.microsoft.com/vs/older-downloads/))
 
 ### Steps
 1. Clone the repository
