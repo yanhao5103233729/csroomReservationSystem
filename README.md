@@ -35,9 +35,9 @@ Follow the on-screen prompts to log in and interact with the system as per your 
 ## Contributing
 Contributions to the project are welcome! Please follow these steps:
 1. Fork the repository.
-2. Create a new branch: git checkout -b feature-branch-name'
-3. Make your changes and commit them: git commit -m 'Commit message'
-4. Push to the original branch: git push origin your-feature-branch
+2. Create a new branch.
+3. Make your changes and commit them.
+4. Push to the original branch.
 5. Create the pull request.
 
 Alternatively, see the GitHub documentation on [creating a pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
