@@ -20,7 +20,7 @@ The Computer Room Reservation System is an object-oriented application designed 
 ## Installation
 
 ### Prerequisites
-- [Microsoft Visual Studio 2010]
+- [Microsoft Visual Studio 2010](https://visualstudio.microsoft.com/vs/older-downloads/)
 
 ### Steps
 1. Clone the repository
